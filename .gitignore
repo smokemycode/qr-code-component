@@ -1,0 +1,31 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Code Editor configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Package/Dependency managers (if you use them later)
+node_modules/
+.pnpm-store/
+package-lock.json
+yarn.lock
+
+# Build outputs (if using preprocessors like Sass/Less)
+.sass-cache/
+*.css.map
+
+# Live Server and Editor history
+.history/
+.vscode/
+
+# Common design artifacts (if you keep project assets locally)
+*.psd
+*.ai
